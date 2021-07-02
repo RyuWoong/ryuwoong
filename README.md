@@ -1,6 +1,7 @@
 ### Hi there, I'm RyuWoong 👋
 
 📖 I'm Studying React and Nodejs
+💻 Now Using React Native.
 
 ✨ I dream of a fullstack developer
 
