@@ -1,10 +1,10 @@
 ### Hi there, I'm RyuWoong 👋
 
-📖 I'm Studying React and Nodejs.
+📖 React, React Native, Next
 
-💻 Now Using React Native.
+💻 Front End Developer
 
-✨ I dream of a fullstack developer
+✨ 어울리는 개발자. 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyuWoong)](https://github.com/anuraghazra/github-readme-stats)
 
