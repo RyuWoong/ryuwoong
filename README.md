@@ -5,7 +5,9 @@
 <a href='https://ryuwoongstory.tistory.com/'><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </p>
 
-<p align='center' fontWeight='bold'>I Used. </p>
+
+<p align='center'><strong>Front.</strong></p>
+
 
 <div align='center'>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -13,8 +15,12 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-#764ABC?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </div>
+
+
+<p align='center'><strong>Back.</strong></p>
+
 
 <div align='center'>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=typescript&logoColor=white">
