@@ -4,8 +4,8 @@
 <p align='center'>
 <a href='https://ryuwoongstory.tistory.com/'><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </p>
-
-
+<br />
+<br />
 <p align='center'><strong>Front.</strong></p>
 
 
@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </div>
-
+<br />
+<br />
 
 <p align='center'><strong>Back.</strong></p>
 
