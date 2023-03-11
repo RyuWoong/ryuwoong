@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome&color=0:#646464,100:000000&height=200&&fontColor=ffffff&section=header&animation=fadeIn)
-<p align='center'> Programming in Dark Room! </p>
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&&desc=Programming%20in%20Dark%20Room&descAlignY=51&descAlign=62&color=0:#B0B0B0,100:000000&height=200&&fontColor=ffffff&section=header&animation=fadeIn)
 
 
 # Welcome My GitHub 👋
