@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://studio.cogicode.com">
-    <img src="./assets/studio-corgi.svg" width="100%" alt="Cogi Code Studio — We make apps that solve little everyday problems. Simple features, with a spoonful of charm." />
+    <img src="./assets/studio-corgi-cutout.svg" width="100%" alt="Cogi Code Studio — We make apps that solve little everyday problems. Simple features, with a spoonful of charm." />
   </a>
 </p>
 
