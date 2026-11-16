@@ -8,7 +8,7 @@
 
 <p align="center">
   작은 불편함을 해결하고 감성을 더해 개발해요.<br />
-  <b>React Native · TypeScript · Indie Software</b>
+  <b>React . React Native . TS</b>
 </p>
 
 <p align="center">
