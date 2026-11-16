@@ -1,33 +1,60 @@
-# RyuWoong
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="RyuWoong — Mobile apps. Thoughtful tools." />
+</p>
 
-**React Native · TypeScript · Developer Tools**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=D99A32&amp;center=true&amp;vCenter=true&amp;width=660&amp;height=42&amp;lines=Building+mobile+experiences.;Making+everyday+work+a+little+easier.;Crafting+small+tools+with+care." width="660" alt="Building mobile experiences. Making everyday work a little easier. Crafting small tools with care." />
+</p>
 
-모바일 앱을 만들고, 개발 과정의 불편함을 줄이는 도구를 만듭니다.
+<p align="center">
+  모바일 앱을 만들고, 일상의 작은 불편함을 도구로 해결합니다.<br />
+  <b>React Native · TypeScript · Indie Software</b>
+</p>
 
-[GitHub](https://github.com/RyuWoong) · [Repositories](https://github.com/RyuWoong?tab=repositories)
+<p align="center">
+  <a href="https://studio.cogicode.com"><img src="https://img.shields.io/badge/Cogi_Code_Studio-VISIT-F2B84B?style=for-the-badge&amp;labelColor=332116&amp;logo=safari&amp;logoColor=FFF2D2" alt="Visit Cogi Code Studio" /></a>
+  <a href="https://github.com/RyuWoong?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE-D78C65?style=for-the-badge&amp;labelColor=332116&amp;logo=github&amp;logoColor=FFF2D2" alt="Explore GitHub" /></a>
+</p>
 
----
+<br />
 
-### Focus
+<p align="center">
+  <a href="https://studio.cogicode.com">
+    <img src="./assets/studio.svg" width="100%" alt="Cogi Code Studio — Make every day a little easier. Visit studio.cogicode.com." />
+  </a>
+</p>
 
-- **Mobile** — React Native 기반의 UI와 네이티브 기능
-- **Tooling** — 일관된 코드 품질을 위한 설정과 개발 도구
-- **Learning** — 직접 구현하고 실험하며 쌓는 기록
+<p align="center">
+  작은 불편함을 덜어주는 Mac 앱을 만드는 인디 소프트웨어 스튜디오.<br />
+  단순한 기능과 세심한 디테일로, 매일의 작업을 조금 더 편하게 만듭니다.
+</p>
 
-### Tech
+<br />
 
-`React Native` `React` `TypeScript` `JavaScript` `Expo` `ESLint`
+<h3 align="center">🛠 Things I build with</h3>
 
-### Selected Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,swift,nodejs,git&amp;theme=dark&amp;perline=6" width="360" alt="React, TypeScript, JavaScript, Swift, Node.js, Git" />
+</p>
 
-| Project | What it does |
-| :--- | :--- |
-| [**React Native Geolocation**](https://github.com/RyuWoong/React-Native-Geolocation) | TurboModule 기반 위치 정보 라이브러리. 현재 위치 조회와 실시간 추적을 지원합니다. |
-| [**eslint-config-ryuwoong**](https://github.com/RyuWoong/eslint-config-ryuwoong) | JavaScript, TypeScript, React, React Native를 위한 ESLint flat config 프리셋입니다. |
-| [**JSON by Table**](https://github.com/RyuWoong/json-by-table) | JSON 구조를 테이블과 연결선으로 시각화하고 편집하는 도구입니다. |
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-20232A?style=flat-square&amp;logo=expo&amp;logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/ESLint-20232A?style=flat-square&amp;logo=eslint&amp;logoColor=A78BFA" alt="ESLint" />
+</p>
 
-### Learning Notes
+<br />
 
-[디자인 패턴](https://github.com/RyuWoong/LearnDesignPattern) ·
-[React Native 애니메이션](https://github.com/RyuWoong/LearnRNAnimation) ·
-[Swift](https://github.com/RyuWoong/LearnSwift)
+<h3 align="center">⚡ The building continues</h3>
+
+<p align="center">
+  <a href="https://github.com/RyuWoong">
+    <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=RyuWoong&amp;bg_color=211813&amp;color=E8C9A6&amp;line=F2B84B&amp;point=E27A5F&amp;area=true&amp;area_color=F2B84B&amp;hide_border=true&amp;radius=16&amp;custom_title=RyuWoong%20%7C%20Activity" width="100%" alt="RyuWoong's recent GitHub contribution activity" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Small details. Better everyday.</sub>
+</p>
+
+<!-- Widgets: DenverCoder1/readme-typing-svg · tandpfun/skill-icons · badges/shields · Ashutosh00710/github-readme-activity-graph -->
