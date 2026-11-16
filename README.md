@@ -45,16 +45,8 @@
 
 <br />
 
-<h3 align="center">⚡ The building continues</h3>
-
-<p align="center">
-  <a href="https://github.com/RyuWoong">
-    <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=RyuWoong&amp;bg_color=211813&amp;color=E8C9A6&amp;line=F2B84B&amp;point=E27A5F&amp;area=true&amp;area_color=F2B84B&amp;hide_border=true&amp;radius=16&amp;custom_title=RyuWoong%20%7C%20Activity" width="100%" alt="RyuWoong's recent GitHub contribution activity" />
-  </a>
-</p>
-
 <p align="center">
   <sub>Little solutions. A little charm.</sub>
 </p>
 
-<!-- Widgets: DenverCoder1/readme-typing-svg · tandpfun/skill-icons · badges/shields · Ashutosh00710/github-readme-activity-graph -->
+<!-- Widgets: DenverCoder1/readme-typing-svg · tandpfun/skill-icons · badges/shields -->
