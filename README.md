@@ -20,13 +20,13 @@
 
 <p align="center">
   <a href="https://studio.cogicode.com">
-    <img src="./assets/studio.svg" width="100%" alt="Cogi Code Studio — Make every day a little easier. Visit studio.cogicode.com." />
+    <img src="./assets/studio.svg" width="100%" alt="Cogi Code Studio — 작은 불편함을 덜어주는 앱을 만들어요. 단순한 기능과 감성을 한 스푼 더해요." />
   </a>
 </p>
 
 <p align="center">
-  작은 불편함을 덜어주는 Mac 앱을 만드는 인디 소프트웨어 스튜디오.<br />
-  단순한 기능과 세심한 디테일로, 매일의 작업을 조금 더 편하게 만듭니다.
+  작은 불편함을 덜어주는 앱을 만들어요.<br />
+  단순한 기능과 감성을 한 스푼 더해요.
 </p>
 
 <br />
