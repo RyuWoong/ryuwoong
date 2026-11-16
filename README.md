@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="RyuWoong — Mobile apps. Thoughtful tools." />
+  <img src="./assets/hero.svg" width="100%" alt="RyuWoong — Everyday solutions. A touch of charm." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=D99A32&amp;center=true&amp;vCenter=true&amp;width=660&amp;height=42&amp;lines=Building+mobile+experiences.;Making+everyday+work+a+little+easier.;Crafting+small+tools+with+care." width="660" alt="Building mobile experiences. Making everyday work a little easier. Crafting small tools with care." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=D99A32&amp;center=true&amp;vCenter=true&amp;width=660&amp;height=42&amp;lines=Solving+little+everyday+problems.;Adding+a+touch+of+charm.;Building+with+React%2C+React+Native+%26+TS." width="660" alt="Solving little everyday problems. Adding a touch of charm. Building with React, React Native &amp; TS." />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://studio.cogicode.com">
-    <img src="./assets/studio.svg" width="100%" alt="Cogi Code Studio — 작은 불편함을 덜어주는 앱을 만들어요. 단순한 기능과 감성을 한 스푼 더해요." />
+    <img src="./assets/studio.svg" width="100%" alt="Cogi Code Studio — We make apps that solve little everyday problems. Simple features, with a spoonful of charm." />
   </a>
 </p>
 
@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <sub>Small details. Better everyday.</sub>
+  <sub>Little solutions. A little charm.</sub>
 </p>
 
 <!-- Widgets: DenverCoder1/readme-typing-svg · tandpfun/skill-icons · badges/shields · Ashutosh00710/github-readme-activity-graph -->

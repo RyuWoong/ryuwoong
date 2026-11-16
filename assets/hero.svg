@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">RyuWoong — Mobile apps. Thoughtful tools.</title>
+  <title id="title">RyuWoong — Everyday solutions. A touch of charm.</title>
   <desc id="desc">Warm amber and copper banner with animated orbital lines.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1c1512"/><stop offset="1" stop-color="#442719"/></linearGradient>
@@ -28,8 +28,8 @@
       <circle cx="73" cy="54" r="4" fill="#f2b84b"/>
       <text x="86" y="59" font-size="12" fill="#f4c575" letter-spacing="2">BUILDING THINGS</text>
       <text x="54" y="166" font-size="86" font-weight="800" fill="#fff2d2" letter-spacing="-4">RyuWoong<tspan fill="#f2b84b">.</tspan></text>
-      <text x="58" y="213" font-size="28" fill="#e8c9a6">Mobile apps. Thoughtful tools.</text>
-      <text x="58" y="278" font-size="13" fill="#c59b75" letter-spacing="3">REACT NATIVE / TYPESCRIPT / INDIE MAKER</text>
+      <text x="58" y="213" font-size="28" fill="#e8c9a6">Everyday solutions. A touch of charm.</text>
+      <text x="58" y="278" font-size="13" fill="#c59b75" letter-spacing="3">REACT / REACT NATIVE / TS</text>
       <rect x="56" y="311" width="200" height="3" rx="1.5" fill="url(#line)"/>
       <text x="1142" y="328" text-anchor="end" font-size="12" fill="#c59b75" letter-spacing="2">HELLO, WORLD</text>
     </g>
