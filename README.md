@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=D99A32&amp;center=true&amp;vCenter=true&amp;width=660&amp;height=42&amp;lines=Solving+little+everyday+problems.;Adding+a+touch+of+charm.;Building+with+React%2C+React+Native+%26+TS." width="660" alt="Solving little everyday problems. Adding a touch of charm. Building with React, React Native &amp; TS." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=81B4FF&amp;center=true&amp;vCenter=true&amp;width=660&amp;height=42&amp;lines=Solving+little+everyday+problems.;Adding+a+touch+of+charm.;Building+with+React%2C+React+Native+%26+TS." width="660" alt="Solving little everyday problems. Adding a touch of charm. Building with React, React Native &amp; TS." />
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://studio.cogicode.com"><img src="https://img.shields.io/badge/Cogi_Code_Studio-VISIT-F2B84B?style=for-the-badge&amp;labelColor=332116&amp;logo=safari&amp;logoColor=FFF2D2" alt="Visit Cogi Code Studio" /></a>
-  <a href="https://github.com/RyuWoong?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE-D78C65?style=for-the-badge&amp;labelColor=332116&amp;logo=github&amp;logoColor=FFF2D2" alt="Explore GitHub" /></a>
+  <a href="https://studio.cogicode.com"><img src="https://img.shields.io/badge/Cogi_Code_Studio-VISIT-FF963C?style=for-the-badge&amp;labelColor=080B12&amp;logo=safari&amp;logoColor=F3F7FF" alt="Visit Cogi Code Studio" /></a>
+  <a href="https://github.com/RyuWoong?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE-81B4FF?style=for-the-badge&amp;labelColor=080B12&amp;logo=github&amp;logoColor=F3F7FF" alt="Explore GitHub" /></a>
 </p>
 
 <br />
