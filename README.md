@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=space-corgi-1" width="100%" alt="RyuWoong — Everyday solutions. A touch of charm." />
+  <img src="./assets/hero-space.svg" width="100%" alt="RyuWoong — Everyday solutions. A touch of charm." />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://studio.cogicode.com">
-    <img src="./assets/studio.svg?v=space-corgi-1" width="100%" alt="Cogi Code Studio — We make apps that solve little everyday problems. Simple features, with a spoonful of charm." />
+    <img src="./assets/studio-corgi.svg" width="100%" alt="Cogi Code Studio — We make apps that solve little everyday problems. Simple features, with a spoonful of charm." />
   </a>
 </p>
 
