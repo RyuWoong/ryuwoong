@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  모바일 앱을 만들고, 일상의 작은 불편함을 도구로 해결합니다.<br />
+  작은 불편함을 해결하고 감성을 더해 개발해요.<br />
   <b>React Native · TypeScript · Indie Software</b>
 </p>
 
